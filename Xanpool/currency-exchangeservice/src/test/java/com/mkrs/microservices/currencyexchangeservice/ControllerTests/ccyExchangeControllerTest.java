@@ -1,4 +1,4 @@
-package com.mkrs.microservices.currencyexchangeservice;
+package com.mkrs.microservices.currencyexchangeservice.ControllerTests;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.mockito.Mockito.when;
